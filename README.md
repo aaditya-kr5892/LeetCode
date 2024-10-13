@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/aaditya-kr5892/LeetCode/tree/master/0907-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/aaditya-kr5892/LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
