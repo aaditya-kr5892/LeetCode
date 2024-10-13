@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/aaditya-kr5892/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/aaditya-kr5892/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
