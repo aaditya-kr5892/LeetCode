@@ -27,6 +27,7 @@
 | [0007-reverse-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0008-string-to-integer-atoi](https://github.com/aaditya-kr5892/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
