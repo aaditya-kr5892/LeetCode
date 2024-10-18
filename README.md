@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aaditya-kr5892/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Matrix
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
