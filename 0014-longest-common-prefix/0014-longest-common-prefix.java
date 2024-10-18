@@ -7,7 +7,7 @@ class Solution {
                 j++;
             }
             strs[0] = strs[0].substring(0,j);
-            if(strs[0].equals(""))
+            if(strs[0].isEmpty())
             return "";
         }
         return strs[0].substring(0,j);
