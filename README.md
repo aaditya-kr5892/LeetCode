@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aaditya-kr5892/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0205-isomorphic-strings) |
