@@ -1,15 +1,19 @@
 class Solution {
     public String frequencySort(String s) {
-        HashMap <Character , Integer> map = new HashMap<>();
-        for(int i = 0 ; i < s.length() ; i++){
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
-        }
-        ArrayList <Character> list = new ArrayList<Character>(map.keySet());
-        list.sort((ob1,ob2) -> map.get(ob2)-map.get(ob1));
+        int arr[] = new int[128];
+        char cmax =',' ;
         StringBuilder sb = new StringBuilder();
-        for(int i = 0 ; i < list.size() ; i++){
-            for(int j = 0 ; j < map.get(list.get(i)); j++){
-                sb.append(list.get(i));
+        for(int i = 0 ; i < s.length() ; i++){
+            arr[(int)s.charAt(i)]++;
+        }
+        for(int i = 48 ; i < arr.length ; i++){
+            for(int j = 48 ; j < arr.length ; j++){
+                if(arr[j] > arr[cmax])
+                cmax = (char)j;
+            }
+            while(arr[cmax]!=0){
+                sb.append(cmax);
+                arr[cmax]--;
             }
         }
         return sb.toString();
