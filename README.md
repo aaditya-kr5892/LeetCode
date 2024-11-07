@@ -95,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -105,6 +106,7 @@
 | [0027-remove-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -132,6 +134,11 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
