@@ -11,16 +11,21 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        if (headA == null || headB == null) return null;
-
-        ListNode pointerA = headA;
-        ListNode pointerB = headB;
-
-        while (pointerA != pointerB) {
-            pointerA = (pointerA == null) ? headB : pointerA.next;
-            pointerB = (pointerB == null) ? headA : pointerB.next;
+        if(headA == null || headB == null)
+        return null;
+        ListNode temp1 = headA;
+        ListNode temp2 = headB;
+        while(temp1 != temp2){
+            if(temp1 == null)
+            temp1 = headB;
+            else 
+            temp1 = temp1.next;
+            if(temp2 == null)
+            temp2 = headA;
+            else
+            temp2 = temp2.next;
         }
-
-        return pointerA;  // The intersection node, or null if no intersection
+        return temp1;
     }
 }
+
