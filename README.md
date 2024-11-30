@@ -109,6 +109,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaditya-kr5892/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
