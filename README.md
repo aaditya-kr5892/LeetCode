@@ -16,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/aaditya-kr5892/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -161,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
@@ -168,4 +170,5 @@
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
