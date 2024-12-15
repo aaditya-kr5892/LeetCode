@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
