@@ -16,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -164,6 +165,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -174,6 +176,7 @@
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
