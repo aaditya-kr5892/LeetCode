@@ -1,24 +1,26 @@
 class Solution {
     public double myPow(double x, int n) {
-        if((x == 1 && n == Integer.MAX_VALUE) || (x == -1 && n == Integer.MAX_VALUE) || (x == 1 && n == Integer.MIN_VALUE))
-        return x;
-        if((x == -1 && n == Integer.MIN_VALUE))
-        return x*-1;
-        if((x != 1|| x != -1)&&n == Integer.MIN_VALUE)
-        return 0;
-        double ans = 1 ; 
-        if(n > 0){
-            for(int i = 0 ; i < n ; i++){
-                ans *= x;
-            }
+        if (x == 1) return 1; 
+        if (x == -1) return (n % 2 == 0) ? 1 : -1; 
+        if (n == 0) return 1; 
+        if (n == Integer.MIN_VALUE) {
+            x = 1 / x;
+            n = Integer.MAX_VALUE; 
+            return x * myPow(x, n);
         }
-        else if(n == 0)
-        return 1;
-        else{
-            for(int i = 0 ; i < -1*n ; i++){
-                ans *= (1.0/x);
-            }
+        if (n < 0) {
+            x = 1 / x;
+            n = -n;
         }
-        return ans;
+        double result = 1.0;
+        while (n > 0) {
+            if (n % 2 == 1) {
+                result *= x;
+            }
+            x *= x; 
+            n /= 2; 
+        }
+        
+        return result;
     }
 }
