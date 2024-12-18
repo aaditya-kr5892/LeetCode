@@ -47,6 +47,7 @@
 | [0009-palindrome-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aaditya-kr5892/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaditya-kr5892/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/aaditya-kr5892/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Bit Manipulation
