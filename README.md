@@ -83,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -104,6 +105,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -122,6 +124,7 @@
 | [0225-implement-stack-using-queues](https://github.com/aaditya-kr5892/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aaditya-kr5892/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aaditya-kr5892/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -220,6 +223,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
