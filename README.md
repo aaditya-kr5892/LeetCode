@@ -34,6 +34,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aaditya-kr5892/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aaditya-kr5892/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aaditya-kr5892/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -53,6 +54,7 @@
 | [0496-next-greater-element-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -65,6 +67,7 @@
 | [0050-powx-n](https://github.com/aaditya-kr5892/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -130,6 +133,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +270,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
