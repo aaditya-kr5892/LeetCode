@@ -109,6 +109,7 @@
 | [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -128,6 +129,7 @@
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -135,6 +137,7 @@
 | [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/aaditya-kr5892/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -162,6 +165,7 @@
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aaditya-kr5892/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/aaditya-kr5892/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
