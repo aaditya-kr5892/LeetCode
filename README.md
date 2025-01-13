@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/aaditya-kr5892/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -136,6 +138,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
