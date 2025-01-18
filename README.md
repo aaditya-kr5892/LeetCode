@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aaditya-kr5892/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aaditya-kr5892/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
@@ -202,6 +203,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aaditya-kr5892/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
