@@ -10,7 +10,7 @@ class Solution {
     void combine(List<List<Integer>> l,List<Integer> list,int arr[],int i,int target){
         if(target == 0){
             l.add(new ArrayList<>(list));
-            return;
+            //return;
         }
         for(int j = i ; j < arr.length ; j++){
             if(j>i && arr[j] == arr[j-1])
