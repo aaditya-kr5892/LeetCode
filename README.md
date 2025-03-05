@@ -84,6 +84,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2649-count-total-number-of-colored-cells](https://github.com/aaditya-kr5892/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search
 |  |
 | ------- |
