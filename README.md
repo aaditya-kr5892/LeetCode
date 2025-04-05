@@ -53,6 +53,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aaditya-kr5892/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aaditya-kr5892/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3483-alternating-groups-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aaditya-kr5892/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aaditya-kr5892/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -272,6 +274,7 @@
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -282,10 +285,12 @@
 | [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0216-combination-sum-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -451,4 +456,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/aaditya-kr5892/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
