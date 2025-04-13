@@ -399,6 +399,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/aaditya-kr5892/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -439,6 +440,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/aaditya-kr5892/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -466,6 +468,7 @@
 | [0210-course-schedule-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aaditya-kr5892/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/aaditya-kr5892/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Combinatorics
 |  |
 | ------- |
@@ -475,4 +478,5 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aaditya-kr5892/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/aaditya-kr5892/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
