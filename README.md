@@ -99,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aaditya-kr5892/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -169,6 +170,7 @@
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -522,4 +524,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
