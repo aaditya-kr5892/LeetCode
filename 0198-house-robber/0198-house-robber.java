@@ -1,16 +1,16 @@
 class Solution {
     public int rob(int[] nums) {
-        int dp[] = new int[nums.length];
-        Arrays.fill(dp,-1);
-        return f(nums.length-1,nums,dp);
-    }
-    int f(int ind,int [] nums,int [] dp){
-        if(ind == 0) return nums[ind];
-        if(ind < 0) return 0;
-        if(dp[ind] != -1)
-        return dp[ind];
-        int pick = nums[ind] + f(ind-2,nums,dp);
-        int not = f(ind-1,nums,dp);
-        return dp[ind] = Math.max(pick,not);
+        //int dp[] = new int[nums.length];
+        //dp[0] = nums[0];
+        int prev = nums[0] ;
+        int prev2= 0;
+        for(int i = 1 ; i < nums.length ; i++){
+            int pick = nums[i] + prev2 ;
+            int not = prev;
+            int curi = Math.max(pick,not);
+            prev2 = prev ;
+            prev = curi;
+        }
+        return prev;
     }
 }
