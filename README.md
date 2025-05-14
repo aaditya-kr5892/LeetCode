@@ -21,6 +21,7 @@
 | [0056-merge-intervals](https://github.com/aaditya-kr5892/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aaditya-kr5892/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aaditya-kr5892/LeetCode/tree/master/0130-surrounded-regions) |
@@ -176,6 +178,7 @@
 | [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
