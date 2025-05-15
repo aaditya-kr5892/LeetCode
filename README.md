@@ -49,6 +49,7 @@
 | [0907-koko-eating-bananas](https://github.com/aaditya-kr5892/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aaditya-kr5892/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -170,6 +171,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -193,6 +195,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
