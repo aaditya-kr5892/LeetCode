@@ -74,6 +74,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3483-alternating-groups-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aaditya-kr5892/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -226,6 +227,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aaditya-kr5892/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Divide and Conquer
 |  |
 | ------- |
