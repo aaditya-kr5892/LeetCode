@@ -22,6 +22,7 @@
 | [0057-insert-interval](https://github.com/aaditya-kr5892/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -82,6 +83,7 @@
 | [0001-two-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -168,6 +170,7 @@
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aaditya-kr5892/LeetCode/tree/master/0130-surrounded-regions) |
