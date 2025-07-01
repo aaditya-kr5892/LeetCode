@@ -160,6 +160,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -208,6 +209,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
