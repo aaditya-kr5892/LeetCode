@@ -1,12 +1,20 @@
 class Solution {
     public int minInsertions(String s) {
         int dp[][] = new int[s.length()][s.length()];
-        for(int i = 0 ; i < dp.length ; i++){
-            for(int j = 0 ; j < dp[0].length ; j++){
-                dp[i][j] = -1;
+        
+        for(int i = s.length()-1 ; i >= 0 ; i--){
+            for(int j = 0 ; j < dp.length ; j++){
+                if(j > i){
+                    if(s.charAt(i) == s.charAt(j)){
+                        dp[i][j] = dp[i+1][j-1];
+                    }
+                    else{
+                        dp[i][j] = 1+ Math.min(dp[i+1][j],dp[i][j-1]);
+                    }
+                }
             }
         }
-        return f(0,s.length()-1,s,dp);
+        return dp[0][s.length()-1];
     }
     int f(int i, int j , String s,int[][]dp){
         if(i >= j){
