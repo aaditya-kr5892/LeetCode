@@ -152,6 +152,7 @@
 | [0014-longest-common-prefix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/aaditya-kr5892/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/aaditya-kr5892/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/aaditya-kr5892/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/aaditya-kr5892/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -230,6 +232,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aaditya-kr5892/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aaditya-kr5892/LeetCode/tree/master/0135-candy) |
@@ -342,6 +345,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaditya-kr5892/LeetCode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/aaditya-kr5892/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aaditya-kr5892/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
