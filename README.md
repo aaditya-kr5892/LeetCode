@@ -82,6 +82,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aaditya-kr5892/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -203,6 +204,7 @@
 | [1559-cherry-pickup-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
 | ------- |
