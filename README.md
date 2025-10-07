@@ -37,6 +37,7 @@
 | [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aaditya-kr5892/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/aaditya-kr5892/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/aaditya-kr5892/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -196,6 +197,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aaditya-kr5892/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/aaditya-kr5892/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
@@ -496,6 +498,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aaditya-kr5892/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aaditya-kr5892/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aaditya-kr5892/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -543,6 +546,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/aaditya-kr5892/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aaditya-kr5892/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aaditya-kr5892/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aaditya-kr5892/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -574,6 +578,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/aaditya-kr5892/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/aaditya-kr5892/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aaditya-kr5892/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aaditya-kr5892/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
