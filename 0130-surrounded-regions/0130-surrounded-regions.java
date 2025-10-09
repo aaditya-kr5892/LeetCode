@@ -1,45 +1,58 @@
+class data{
+    int i;
+    int j;
+    data(int i, int j){
+        this.i = i;
+        this.j = j;
+        
+    }
+}
 class Solution {
     public void solve(char[][] board) {
         int visited[][] = new int[board.length][board[0].length];
+        Queue<data> que = new LinkedList<>();
         for(int i = 0 ; i < board.length ; i++){
-            if(visited[i][board[0].length -1] != 1 && board[i][board[0].length -1] == 'O'){
-                visited[i][board[0].length-1] = 1;
-                dfs(i,board[0].length-1,board,visited);
+            if(board[i][0] == 'O'){
+                que.add(new data(i, 0));
             }
-            if(visited[i][0] != 1 && board[i][0] == 'O'){
-                visited[i][0] = 1;
-                dfs(i,0,board,visited);
+            if(board[i][board[0].length-1] == 'O'){
+                que.add(new data(i, board[0].length-1));
             }
         }
-        for(int j = 0 ; j < board[0].length ; j++){
-            if(visited[0][j] != 1 && board[0][j] == 'O'){
-                visited[0][j] = 1;
-                dfs(0,j,board,visited);
-            }
-            if(visited[board.length-1][j] != 1 && board[board.length-1][j] == 'O'){
-                visited[board.length-1][j] = 1;
-                dfs(board.length-1,j,board,visited);
 
+        for(int i = 0 ; i < board[0].length ; i++){
+            if(board[0][i] =='O'){
+                que.add(new data(0, i));
+            }
+            if(board[board.length-1][i] == 'O'){
+                que.add(new data(board.length-1, i));
             }
         }
-        for(int i = 0 ; i < board.length ; i++){
-            for(int j = 0 ; j < board[0].length ; j++){
-                if(visited[i][j] == 0 && board[i][j] == 'O'){
+
+        while(!que.isEmpty()){
+            data d = que.poll();
+            visited[d.i][d.j] = 1;
+            int[] drow = {0, 1, 0, -1};
+            int[] dcol = {1, 0, -1, 0};
+            for(int i = 0 ; i < 4 ; i++){
+                int nrow = drow[i] + d.i;
+                int ncol = dcol[i] + d.j;
+                if(nrow >= 0 && ncol >= 0 && nrow < board.length && ncol < board[0].length){
+                    if(board[nrow][ncol] == 'O' && visited[nrow][ncol] == 0){
+                        // board[nrow][ncol] = 'X';
+                        visited[nrow][ncol] = 1;
+                        que.add(new data(nrow, ncol));
+                    }
+                }
+            }
+        }
+        for(int i = 0 ; i < visited.length ; i++){
+            for(int j = 0 ; j < visited[0].length ; j++){
+                if(visited[i][j] == 0){
                     board[i][j] = 'X';
                 }
             }
         }
-    }
-    void dfs(int i, int j,char [][]board,int [][]visited){
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,1,0,-1};
-        for(int i1 = 0 ; i1 < 4 ; i1++){
-            int nrow = i + drow[i1];
-            int ncol = j + dcol[i1];
-            if(nrow <= board.length-1 && nrow >= 0 && ncol <= board[0].length-1 && ncol >= 0 && visited[nrow][ncol] != 1 && board[nrow][ncol] == 'O'){
-                visited[nrow][ncol] = 1;
-                dfs(nrow,ncol,board,visited);
-            }
-        }
+        // return board;
     }
 }
