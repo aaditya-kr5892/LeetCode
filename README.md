@@ -88,6 +88,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aaditya-kr5892/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -153,6 +154,7 @@
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aaditya-kr5892/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Divide and Conquer
 |  |
@@ -338,6 +341,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [2887-sort-vowels-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -455,6 +459,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aaditya-kr5892/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
