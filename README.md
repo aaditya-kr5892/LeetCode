@@ -116,6 +116,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2325-decode-the-message](https://github.com/aaditya-kr5892/LeetCode/tree/master/2325-decode-the-message) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aaditya-kr5892/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -189,6 +190,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2325-decode-the-message](https://github.com/aaditya-kr5892/LeetCode/tree/master/2325-decode-the-message) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaditya-kr5892/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
