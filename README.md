@@ -67,6 +67,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/aaditya-kr5892/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aaditya-kr5892/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -260,6 +261,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aaditya-kr5892/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
