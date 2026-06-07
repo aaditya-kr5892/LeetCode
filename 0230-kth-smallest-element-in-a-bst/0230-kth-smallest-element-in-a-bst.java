@@ -21,8 +21,8 @@ class Solution {
         return ans;
     }
     void f(TreeNode root, int k){
-        if(root == null){
-            return ;
+        if (root == null || count >= k) {
+            return;
         }
         f(root.left, k);
         count++;
