@@ -13,35 +13,25 @@
  *     }
  * }
  */
- class custom{
-    int level;
-    TreeNode node;
-    custom(TreeNode node,int level){
-        this.level = level ;
-        this.node = node;
-    }
- }
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        Map<Integer,Integer> map = new TreeMap<>();
-        Queue<custom> que = new LinkedList<>();
+        Queue<TreeNode> que = new LinkedList<>();
         List<Integer> list = new ArrayList<>();
-        if(root == null){
-            return list;
-        }
-        que.add(new custom(root,0));
+        if(root == null) return list;
+        que.add(root);
         while(!que.isEmpty()){
-            if(que.peek().node.left != null){
-                que.add(new custom(que.peek().node.left,que.peek().level+1));
+            int size = que.size();
+            for(int i = 0 ; i < size ; i++){
+                if(que.peek().right != null){
+                    que.add(que.peek().right);
+                }
+                if(que.peek().left != null){
+                    que.add(que.peek().left);
+                }
+                if(i == 0)
+                    list.add(que.poll().val);
+                else que.poll();
             }
-            if(que.peek().node.right != null){
-                que.add(new custom(que.peek().node.right,que.peek().level+1));
-            }
-            map.put(que.peek().level,que.peek().node.val);
-            que.poll();
-        }
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-            list.add(entry.getValue());
         }
         return list;
     }
