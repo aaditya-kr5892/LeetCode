@@ -13,28 +13,22 @@
  *     }
  * }
  */
- class data{
-    int value;
-    data(int value){
-        this.value = value;
-    }
- }
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        data d = new data(0);
-        //int arr[] = new int[1];
-        int max = f(root,d);
-        return d.value;
+        // int l = 0, r = 0;
+        int max[] = new int[1];
+        int l = f(root, max);
+        return max[0];
     }
-    int f(TreeNode root,data d){
+    int f(TreeNode root, int[] max){
         if(root == null){
             return 0;
         }
-        int l = f(root.left,d);
-        int r = f(root.right,d);
-        if(l+r > d.value){
-            d.value = l+r;
-        }
-        return 1 + Math.max(l,r);
+        int l = 0, r = 0;
+        l = f(root.left, max);
+        r = f(root.right, max);
+        // return 
+        max[0] = Math.max(max[0], l + r);
+        return 1+Math.max(l, r);
     }
 }
