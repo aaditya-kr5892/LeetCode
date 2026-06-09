@@ -353,6 +353,7 @@
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -401,6 +402,7 @@
 | [0206-reverse-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
