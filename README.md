@@ -31,6 +31,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -107,6 +108,7 @@
 | [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aaditya-kr5892/LeetCode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0493-reverse-pairs) |
 ## Stack
@@ -515,6 +518,7 @@
 | [0100-same-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -575,6 +579,7 @@
 | [0100-same-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
