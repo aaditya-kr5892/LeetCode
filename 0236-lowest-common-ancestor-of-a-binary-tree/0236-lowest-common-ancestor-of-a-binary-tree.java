@@ -33,9 +33,13 @@ class Solution {
         boolean l = false, r = false;
 
         list.add(root);
-        l = f(root.left, p, list);
-        r = f(root.right , p, list);
-
+        if (f(root.left, p, list)) {
+            return true; 
+        }
+        
+        if (f(root.right, p, list)) {
+            return true;
+        }
         
         if(l == true || r == true){
             return true;
