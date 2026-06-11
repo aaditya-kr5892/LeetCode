@@ -258,6 +258,7 @@
 | [0213-house-robber-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aaditya-kr5892/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/aaditya-kr5892/LeetCode/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -285,6 +286,7 @@
 | [0055-jump-game](https://github.com/aaditya-kr5892/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/aaditya-kr5892/LeetCode/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/aaditya-kr5892/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
@@ -424,6 +426,7 @@
 | [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
+| [0397-integer-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0397-integer-replacement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -679,6 +682,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0397-integer-replacement) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
 |  |
