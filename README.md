@@ -109,6 +109,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -352,6 +353,7 @@
 | [0027-remove-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aaditya-kr5892/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -403,6 +405,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0206-reverse-linked-list) |
