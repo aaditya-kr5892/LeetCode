@@ -88,6 +88,7 @@
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -385,6 +386,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
