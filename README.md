@@ -89,6 +89,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -235,6 +236,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
@@ -491,6 +493,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aaditya-kr5892/LeetCode/tree/master/0735-asteroid-collision) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
 | ------- |
