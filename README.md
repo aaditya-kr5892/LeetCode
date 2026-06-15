@@ -91,6 +91,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aaditya-kr5892/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -130,6 +131,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2325-decode-the-message](https://github.com/aaditya-kr5892/LeetCode/tree/master/2325-decode-the-message) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -383,6 +385,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
+| [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
@@ -404,6 +407,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/aaditya-kr5892/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Linked List
 |  |
 | ------- |
