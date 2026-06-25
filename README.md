@@ -378,6 +378,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0821-shortest-distance-to-a-character](https://github.com/aaditya-kr5892/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -396,6 +397,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aaditya-kr5892/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
@@ -408,6 +410,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -489,6 +492,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/aaditya-kr5892/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aaditya-kr5892/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/aaditya-kr5892/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -544,6 +548,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/aaditya-kr5892/LeetCode/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
