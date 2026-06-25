@@ -8,15 +8,15 @@ class MedianFinder {
     
     public void addNum(int num) {
         if(lo.isEmpty() && hi.isEmpty()){
-            lo.add(num);
+            hi.add(num);
             return;
         }
-        lo.add(num);
-        int k = lo.poll();
-        hi.add(k);
-        if(hi.size() > lo.size()){
-            k = hi.poll();
-            lo.add(k);
+        hi.add(num);
+        int k = hi.poll();
+        lo.add(k);
+        if(hi.size() < lo.size()){
+            k = lo.poll();
+            hi.add(k);
             return;
         }
     }
@@ -26,7 +26,7 @@ class MedianFinder {
             return (hi.peek()+lo.peek())/2.0d;
         }
         else{
-            return lo.peek();
+            return hi.peek();
         }
     }
 }
