@@ -120,6 +120,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aaditya-kr5892/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -437,6 +438,7 @@
 | [0061-rotate-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aaditya-kr5892/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aaditya-kr5892/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -488,6 +490,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aaditya-kr5892/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aaditya-kr5892/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/aaditya-kr5892/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -753,4 +756,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aaditya-kr5892/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
