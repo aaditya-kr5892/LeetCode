@@ -109,6 +109,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aaditya-kr5892/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aaditya-kr5892/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
