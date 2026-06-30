@@ -18,7 +18,7 @@ class Solution {
                 dp[i][j] = -1;
             }
         }
-        Arrays.sort(it, (a, b)->Integer.compare(a[1], b[1]));
+        // Arrays.sort(it, (a, b)->Integer.compare(a[1], b[1]));
         return f(it, 0, budget, dp, min);
     }
     int f(int[][] items, int ind, int b, int[][] dp, int min){
