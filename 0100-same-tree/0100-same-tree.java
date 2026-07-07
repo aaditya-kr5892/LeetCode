@@ -15,23 +15,19 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        boolean res = f(p,q);
-        return res;
+        return f(p, q);
     }
-    boolean f(TreeNode p , TreeNode q){
-        if((p == null && q != null) || (p != null && q == null))
-        return false;
-        if(p == null && q == null){
-            return true;
+    boolean f(TreeNode p, TreeNode q){
+        if(p == null || q == null){
+            return p == q;
         }
-        if(p.val != q.val){
-            return false;
-        }
-        boolean l = f(p.left,q.left);
-        boolean r = f(p.right,q.right);
-        if(l == false || r == false){
-            return false;
-        }
+
+        if(p.val != q.val) return false;
+
+        boolean l = f(p.left, q.left);
+        boolean r = f(p.right, q.right);
+
+        if(l == false || r == false) return false;
         return true;
     }
 }
