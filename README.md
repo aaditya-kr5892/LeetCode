@@ -588,6 +588,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -618,6 +619,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aaditya-kr5892/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -654,6 +656,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -676,6 +679,7 @@
 | [0542-01-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aaditya-kr5892/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
