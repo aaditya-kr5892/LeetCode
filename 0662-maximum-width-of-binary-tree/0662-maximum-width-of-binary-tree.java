@@ -16,33 +16,37 @@
 class data{
     int ind;
     TreeNode node;
-    data(int ind, TreeNode node){
+    data(TreeNode node, int ind){
         this.ind = ind;
         this.node = node;
     }
 }
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
+        return f(root);
+    }
+    int f(TreeNode root){
         Queue<data> que = new LinkedList<>();
-        que.add(new data(0,root));
+        que.add(new data(root, 0));
         int max = 0;
         while(!que.isEmpty()){
+            // data r = que.poll();
             int s = que.size();
             int min = que.peek().ind;
             int first = 0, last = 0;
             for(int i = 0 ; i < s ; i++){
                 data d = que.poll();
-                int n = d.ind - min;
+                int n = d.ind-min;
                 if(i == 0) first = n;
                 if(i == s-1) last = n;
                 if(d.node.left != null){
-                    que.add(new data(2*n+1, d.node.left));
+                    que.add(new data(d.node.left, 2*n+1));
                 }
                 if(d.node.right != null){
-                    que.add(new data(2*n+2, d.node.right));
+                    que.add(new data(d.node.right, 2*n+2));
                 }
             }
-            max = Math.max(max, last-first+1);
+            max = Math.max(last-first+1, max);
         }
         return max;
     }
