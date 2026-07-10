@@ -15,25 +15,23 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return f(preorder, inorder, 0, inorder.length-1, 0, preorder.length-1);
+        return f(inorder, preorder, 0, inorder.length-1, 0, preorder.length-1);
     }
-    TreeNode f(int[] preorder, int[] inorder, int ins, int ine, int prs, int pre){
-        if(ins > ine || prs > pre){
+    TreeNode f(int[] inorder, int[] preorder, int in_s, int in_e, int pr_s, int pr_e){
+        if(in_s > in_e || pr_s > pr_e){
             return null;
         }
         int mid = -1;
-        TreeNode root = new TreeNode(preorder[prs]);
-
-        for(int i = ins ; i <= ine ; i++){
-            if(root.val == inorder[i]){
+        TreeNode r = new TreeNode(preorder[pr_s], null, null);
+        for(int i = in_s ; i <= in_e ; i++){
+            if(inorder[i] == preorder[pr_s]){
                 mid = i;
                 break;
             }
         }
-        int len = mid-ins;
-
-        root.left = f(preorder, inorder, ins, mid-1, prs+1, prs+len);
-        root.right = f(preorder, inorder, mid+1, ine, prs+len+1, pre);
-        return root;
+        int len = mid - in_s;
+        r.left = f(inorder, preorder, in_s, mid-1, pr_s+1, pr_s+len);
+        r.right = f(inorder, preorder, mid+1, in_e, pr_s+len+1, pr_e);
+        return r;
     }
 }
