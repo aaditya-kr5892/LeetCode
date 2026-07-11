@@ -75,6 +75,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aaditya-kr5892/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -370,6 +371,7 @@
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
 | [0937-online-stock-span](https://github.com/aaditya-kr5892/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -531,6 +533,7 @@
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
 | [0937-online-stock-span](https://github.com/aaditya-kr5892/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -603,6 +606,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -677,6 +681,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -722,6 +727,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
 |  |
