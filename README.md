@@ -53,6 +53,7 @@
 | [0229-majority-element-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aaditya-kr5892/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/aaditya-kr5892/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -180,6 +181,7 @@
 | [0035-search-insert-position](https://github.com/aaditya-kr5892/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -282,6 +284,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aaditya-kr5892/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/aaditya-kr5892/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aaditya-kr5892/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/aaditya-kr5892/LeetCode/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/aaditya-kr5892/LeetCode/tree/master/0397-integer-replacement) |
