@@ -67,6 +67,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aaditya-kr5892/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aaditya-kr5892/LeetCode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/aaditya-kr5892/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
 | [0890-lemonade-change](https://github.com/aaditya-kr5892/LeetCode/tree/master/0890-lemonade-change) |
@@ -291,6 +292,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/aaditya-kr5892/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aaditya-kr5892/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/aaditya-kr5892/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
