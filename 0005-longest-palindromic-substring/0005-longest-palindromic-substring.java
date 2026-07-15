@@ -1,30 +1,30 @@
 class Solution {
     public String longestPalindrome(String s) {
-        
-        int start = 0 ;
-        int maxlen = 1;
-        for(int i = 1 ; i < s.length() ; i++){
-            int l = i-1;
-            int r = i;
-            while(l>=0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-                if(r-l+1 >maxlen){
-                    maxlen = r-l+1;
-                    start = l;
-                }
-                r++;
-                l--;
-            }
-            l = i-1;
-            r = i+1;
-            while(l>=0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-                if(r-l+1 >maxlen){
-                    maxlen = r-l+1;
-                    start = l;
-                }
-                r++;
-                l--;
+        int max = 0;
+        String res="";
+        int[][] dp = new int[s.length()][s.length()];
+        for(int i = 0 ; i < s.length() ; i++){
+            for(int j = 0 ; j < s.length() ; j++){
+                dp[i][j] = -1;
             }
         }
-        return s.substring(start,start +maxlen);
+        for(int i = 0 ; i < s.length() ; i++){
+            for(int j = i ; j < s.length() ; j++){
+                if(f(i, j, s, dp)){
+                    if(max < j-i+1){
+                        max = j-i+1;
+                        res = s.substring(i, j+1);
+                    }
+                }
+            }
+        }
+        return res;
+    }
+    boolean f(int i, int j, String s, int[][]dp){
+        if(i >= j) return true;
+        if(dp[i][j] != -1) return dp[i][j] == 1;
+        if(s.charAt(i) != s.charAt(j)) return false;
+        dp[i][j] = ((f(i+1, j-1, s, dp))?1:0);
+        return dp[i][j] == 1;
     }
 }
