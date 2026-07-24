@@ -28,6 +28,7 @@
 | [0057-insert-interval](https://github.com/aaditya-kr5892/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/aaditya-kr5892/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aaditya-kr5892/LeetCode/tree/master/0078-subsets) |
@@ -163,6 +164,7 @@
 | [0013-roman-to-integer](https://github.com/aaditya-kr5892/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aaditya-kr5892/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aaditya-kr5892/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/aaditya-kr5892/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
