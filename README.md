@@ -145,6 +145,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aaditya-kr5892/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aaditya-kr5892/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -619,6 +620,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -658,6 +660,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aaditya-kr5892/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aaditya-kr5892/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -726,6 +729,7 @@
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aaditya-kr5892/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -823,4 +827,8 @@
 | ------- |
 | [1114-print-in-order](https://github.com/aaditya-kr5892/LeetCode/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/aaditya-kr5892/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
