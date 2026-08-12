@@ -1,21 +1,29 @@
 class Solution {
     public String reverseWords(String s) {
-        // Step 1: Trim the input string to remove leading and trailing spaces
         s = s.trim();
-        
-        // Step 2: Split the string by one or more spaces to get all words
-        String[] words = s.split("\\s+");
-        
-        // Step 3: Reverse the list of words
         StringBuilder sb = new StringBuilder();
-        for (int i = words.length - 1; i >= 0; i--) {
-            sb.append(words[i]);
-            if (i != 0) {
-                sb.append(' ');
+        List<String> list = new ArrayList<>();
+        int l = 0, r = 0;
+        while(l <= r && r < s.length()){
+            char ch = s.charAt(r);
+            if(ch == ' '){
+                list.add(s.substring(l, r));
+                l = r+1;
+                while(r < s.length() && s.charAt(r) == ' '){
+                    r++;
+                    l = r;
+                }
+                continue;
             }
+            r++;
         }
-        
-        // Step 4: Join the words with a single space and return the result
-        return sb.toString();
+        list.add(s.substring(l, r));
+        Collections.reverse(list);
+        for(int i = 0 ; i < list.size() ; i++){
+            sb.append(list.get(i));
+            sb.append(' ');
+        }
+        String st = sb.toString();
+        return st.trim();
     }
 }
