@@ -101,6 +101,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -151,6 +152,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aaditya-kr5892/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/aaditya-kr5892/LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -424,6 +426,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/aaditya-kr5892/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aaditya-kr5892/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -442,6 +445,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
