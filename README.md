@@ -855,4 +855,8 @@
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/aaditya-kr5892/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
