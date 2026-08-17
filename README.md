@@ -96,6 +96,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aaditya-kr5892/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaditya-kr5892/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aaditya-kr5892/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -324,6 +325,7 @@
 | [1170-shortest-common-supersequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aaditya-kr5892/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aaditya-kr5892/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-cherry-pickup-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -594,6 +596,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aaditya-kr5892/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aaditya-kr5892/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aaditya-kr5892/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
