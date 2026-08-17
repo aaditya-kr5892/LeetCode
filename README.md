@@ -105,6 +105,7 @@
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/aaditya-kr5892/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -365,6 +366,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/aaditya-kr5892/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aaditya-kr5892/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/aaditya-kr5892/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3639-zero-array-transformation-i) |
