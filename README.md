@@ -92,6 +92,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aaditya-kr5892/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/aaditya-kr5892/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/aaditya-kr5892/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aaditya-kr5892/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -153,6 +154,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aaditya-kr5892/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aaditya-kr5892/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/aaditya-kr5892/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aaditya-kr5892/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
