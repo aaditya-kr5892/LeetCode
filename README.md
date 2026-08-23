@@ -445,6 +445,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aaditya-kr5892/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -511,6 +512,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
