@@ -416,6 +416,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -446,6 +447,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aaditya-kr5892/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -514,6 +516,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
