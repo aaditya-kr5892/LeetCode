@@ -35,9 +35,9 @@ public:
         if(target == root->val)
             count++;
 
-        count += sum(root->left, target - root->val);
-        count += sum(root->right, target - root->val);
+        int l = sum(root->left, target - root->val);
+        int r =  sum(root->right, target - root->val);
 
-        return count;
+        return l+r+count;
     }
 };
