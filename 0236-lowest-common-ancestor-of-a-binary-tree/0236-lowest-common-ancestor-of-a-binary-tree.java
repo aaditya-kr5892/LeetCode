@@ -15,7 +15,7 @@ class Solution {
         if(root == null || root == p || root == q){
             return root;
         }
-        
+
         TreeNode l = f(root.left, p, q);
         TreeNode r = f(root.right, p, q);
 
