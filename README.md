@@ -907,4 +907,12 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aaditya-kr5892/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/aaditya-kr5892/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aaditya-kr5892/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
