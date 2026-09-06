@@ -665,6 +665,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/aaditya-kr5892/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -755,6 +756,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/aaditya-kr5892/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -809,6 +811,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
