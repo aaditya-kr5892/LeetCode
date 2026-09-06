@@ -670,6 +670,7 @@
 | [0872-leaf-similar-trees](https://github.com/aaditya-kr5892/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -714,6 +715,7 @@
 | [0872-leaf-similar-trees](https://github.com/aaditya-kr5892/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aaditya-kr5892/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aaditya-kr5892/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -758,6 +760,7 @@
 | [0872-leaf-similar-trees](https://github.com/aaditya-kr5892/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aaditya-kr5892/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -789,6 +792,7 @@
 | [0841-keys-and-rooms](https://github.com/aaditya-kr5892/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/aaditya-kr5892/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aaditya-kr5892/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aaditya-kr5892/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aaditya-kr5892/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
