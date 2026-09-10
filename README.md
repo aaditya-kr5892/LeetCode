@@ -109,6 +109,7 @@
 | [1732-find-the-highest-altitude](https://github.com/aaditya-kr5892/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaditya-kr5892/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aaditya-kr5892/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -284,6 +285,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/aaditya-kr5892/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaditya-kr5892/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aaditya-kr5892/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -801,6 +803,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aaditya-kr5892/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/aaditya-kr5892/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Search Tree
 |  |
 | ------- |
