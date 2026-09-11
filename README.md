@@ -167,6 +167,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/aaditya-kr5892/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2325-decode-the-message](https://github.com/aaditya-kr5892/LeetCode/tree/master/2325-decode-the-message) |
+| [2336-smallest-number-in-infinite-set](https://github.com/aaditya-kr5892/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -484,6 +485,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2336-smallest-number-in-infinite-set](https://github.com/aaditya-kr5892/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
@@ -572,6 +574,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/aaditya-kr5892/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/aaditya-kr5892/LeetCode/tree/master/0937-online-stock-span) |
+| [2336-smallest-number-in-infinite-set](https://github.com/aaditya-kr5892/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -879,6 +882,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0493-reverse-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/aaditya-kr5892/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Union-Find
 |  |
 | ------- |
