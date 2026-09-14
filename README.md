@@ -95,6 +95,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/aaditya-kr5892/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/aaditya-kr5892/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1383-maximum-performance-of-a-team](https://github.com/aaditya-kr5892/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aaditya-kr5892/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aaditya-kr5892/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aaditya-kr5892/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -362,6 +363,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aaditya-kr5892/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/aaditya-kr5892/LeetCode/tree/master/0890-lemonade-change) |
+| [1383-maximum-performance-of-a-team](https://github.com/aaditya-kr5892/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2032-largest-odd-number-in-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -471,6 +473,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aaditya-kr5892/LeetCode/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/aaditya-kr5892/LeetCode/tree/master/0853-car-fleet) |
+| [1383-maximum-performance-of-a-team](https://github.com/aaditya-kr5892/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -487,6 +490,7 @@
 | [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1383-maximum-performance-of-a-team](https://github.com/aaditya-kr5892/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2336-smallest-number-in-infinite-set](https://github.com/aaditya-kr5892/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
