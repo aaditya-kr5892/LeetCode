@@ -118,6 +118,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2284-sender-with-largest-word-count](https://github.com/aaditya-kr5892/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/aaditya-kr5892/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aaditya-kr5892/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -218,6 +219,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aaditya-kr5892/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/aaditya-kr5892/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aaditya-kr5892/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aaditya-kr5892/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
@@ -457,6 +459,7 @@
 | [1768-merge-strings-alternately](https://github.com/aaditya-kr5892/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/aaditya-kr5892/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Trie
 |  |
 | ------- |
@@ -478,6 +481,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aaditya-kr5892/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/aaditya-kr5892/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aaditya-kr5892/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2542-maximum-subsequence-score](https://github.com/aaditya-kr5892/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aaditya-kr5892/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
