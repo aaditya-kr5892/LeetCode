@@ -958,4 +958,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/aaditya-kr5892/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
