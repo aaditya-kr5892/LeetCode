@@ -48,6 +48,7 @@
 | [0136-single-number](https://github.com/aaditya-kr5892/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aaditya-kr5892/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aaditya-kr5892/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aaditya-kr5892/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aaditya-kr5892/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
@@ -191,6 +192,7 @@
 | [0066-plus-one](https://github.com/aaditya-kr5892/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aaditya-kr5892/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aaditya-kr5892/LeetCode/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/aaditya-kr5892/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -452,6 +454,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aaditya-kr5892/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aaditya-kr5892/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/aaditya-kr5892/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aaditya-kr5892/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aaditya-kr5892/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
