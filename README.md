@@ -509,6 +509,7 @@
 | [0239-sliding-window-maximum](https://github.com/aaditya-kr5892/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/aaditya-kr5892/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya-kr5892/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/aaditya-kr5892/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1753-path-with-minimum-effort](https://github.com/aaditya-kr5892/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -742,6 +743,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -822,6 +824,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaditya-kr5892/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aaditya-kr5892/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aaditya-kr5892/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -889,6 +892,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aaditya-kr5892/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
@@ -926,6 +930,7 @@
 | [0133-clone-graph](https://github.com/aaditya-kr5892/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aaditya-kr5892/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/aaditya-kr5892/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aaditya-kr5892/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aaditya-kr5892/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Quickselect
@@ -974,4 +979,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaditya-kr5892/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
