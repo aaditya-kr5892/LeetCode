@@ -983,4 +983,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aaditya-kr5892/LeetCode/tree/master/0743-network-delay-time) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aaditya-kr5892/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
